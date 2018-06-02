@@ -24,11 +24,11 @@ msgstr ""
 #: wp-admin/includes/schema.php:402
 msgctxt "start of week"
 msgid "1"
-msgstr ""
+msgstr "Kuntandikwa ya ddimaansi"
 
 #: wp-admin/includes/file.php:1893
 msgid "Unable to create export folder."
-msgstr "Tekisobose kukola terekelo"
+msgstr "Tekisoboka kukola terekelo."
 
 #. translators: %s: Privacy Policy Guide URL
 #: wp-admin/includes/misc.php:1356
@@ -37,7 +37,7 @@ msgstr ""
 
 #: wp-admin/privacy.php:214
 msgid "There are no pages."
-msgstr "Tewali miko"
+msgstr "Tewali miko."
 
 #: wp-admin/privacy.php:212
 msgid "Or:"
@@ -45,7 +45,7 @@ msgstr "Oba:"
 
 #: wp-admin/privacy.php:186
 msgid "Select an existing page:"
-msgstr "Londawo ku miko"
+msgstr "Londa omuko:"
 
 #. translators: %s is the update notification bubble, if updates are available.
 #: wp-admin/menu.php:266
@@ -115,7 +115,7 @@ msgstr "Ensulo: %s"
 
 #: wp-admin/includes/misc.php:1580
 msgid "Updated %s."
-msgstr "Bikyusidwa %s"
+msgstr "Bikyusibwa %s."
 
 #: wp-admin/includes/misc.php:1575
 msgid "You deactivated this plugin on %s and may no longer need this policy."
@@ -123,7 +123,7 @@ msgstr ""
 
 #: wp-admin/includes/misc.php:1573
 msgid "Removed %s."
-msgstr "Ebigidwaawo %s"
+msgstr "Ebigidwaawo %s."
 
 #: wp-admin/includes/misc.php:1562 wp-admin/includes/misc.php:1627
 msgid "Introduction"
